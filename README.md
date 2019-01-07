@@ -12,10 +12,6 @@ This is a program where a user can search physician from 2016 [CMS.gov](https://
 
 - [Node.js](https://nodejs.org/en/) 6+
 
-```shell
-npm install
-```
-
 
 ## Running
 
