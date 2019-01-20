@@ -30,24 +30,11 @@ MongoClient.connect(uri, { useNewUrlParser: true },function(err, client) {
    	client.close();
 
    });
-
-
- 
   
 });
 
 
 });
-app.post('/api/world', (req, res) => {
-  console.log(req.body);
-  res.send(
-    `I received your POST request. This is what you sent me: ${req.body.post}`,
-  );
-});
-
-
-
-
 
 
 
