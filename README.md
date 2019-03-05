@@ -1,7 +1,7 @@
 # Locate Physician
 
 
-This is a program where a user can search physician from 2016 [CMS.gov](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) dataset and discover where the physician is based.
+A web app that allows users to search doctors and pin their location on a map. Data retrieved from [CMS.gov](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) 
 - [React](https://facebook.github.io/react/) for the frontend
 - [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
 
